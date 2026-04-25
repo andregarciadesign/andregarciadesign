@@ -2,7 +2,7 @@
 
 ### Designer & Estrategista de Marketing Digital
 
-Designer com mais de 18 anos de experiência, focado em transformar ideias em projetos visuais de alto impacto e estratégias digitais que geram resultados.
+Designer com 20 anos de experiência, focado em transformar ideias em projetos visuais de alto impacto e estratégias digitais que geram resultados.
 
 ---
 
