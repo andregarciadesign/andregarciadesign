@@ -24,5 +24,5 @@ Designer com 20 anos de experiência, focado em transformar ideias em projetos v
 
 *"Design não é apenas o que parece e o que se sente. Design é como funciona."*
 
-<img src="https://profile-counter.glitch.me/andregarciadesign/count.svg" alt="Visitor Count">
+
 
