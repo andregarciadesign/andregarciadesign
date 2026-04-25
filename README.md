@@ -2,13 +2,12 @@
 
 ### Designer & Estrategista de Marketing Digital
 
-Designer com 20 anos de experiência, focado em transformar ideias em projetos visuais de alto impacto e estratégias digitais que geram resultados.
+Designer com mais de 18 anos de experiência, focado em transformar ideias em projetos visuais de alto impacto e estratégias digitais que geram resultados.
 
 ---
 
 ### 🚀 Sobre mim
-- 📍 Atuando em São Paulo (Pirituba) e região.
-- 🏢 Fundador da **Agência Simum**.
+- 📍 Atuando em São Paulo e região.
 - 🎨 Especialista em Design Visual, Branding e Marketing Estratégico.
 - 🇯🇵 Entusiasta da cultura JDM e cultura pop japonesa.
 
@@ -21,6 +20,6 @@ Designer com 20 anos de experiência, focado em transformar ideias em projetos v
 
 ### 🌐 Conecte-se comigo
 - [Meu Portfólio](https://andregarciadesign.com.br)
-- [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+- [LinkedIn](https://www.linkedin.com/in/andcgarcia/)
 
 *"Design não é apenas o que parece e o que se sente. Design é como funciona."*
