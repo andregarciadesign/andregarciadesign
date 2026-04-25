@@ -23,3 +23,5 @@ Designer com 20 anos de experiência, focado em transformar ideias em projetos v
 - [LinkedIn](https://www.linkedin.com/in/andcgarcia/)
 
 *"Design não é apenas o que parece e o que se sente. Design é como funciona."*
+
+<img src="https://profile-counter.glitch.me/SEU-USUARIO-DO-GITHUB/count.svg" alt="Visitor Count">
