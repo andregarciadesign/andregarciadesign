@@ -12,9 +12,9 @@ Designer com 20 anos de experiência, focado em transformar ideias em projetos v
 - 🇯🇵 Entusiasta da cultura JDM e cultura pop japonesa.
 
 ### 🛠️ Minha Expertise
-![Design](https://img.shields.io/badge/Design-363636?style=for-the-badge&logoColor=e4cc56)
-![Marketing](https://img.shields.io/badge/Marketing_Digital-e4cc56?style=for-the-badge&logoColor=363636)
-![Branding](https://img.shields.io/badge/Branding-363636?style=for-the-badge&logoColor=e4cc56)
+[![Design](https://img.shields.io/badge/Design-363636?style=for-the-badge&logoColor=e4cc56)](https://andregarciadesign.com.br/category/design/)
+[![Marketing](https://img.shields.io/badge/Marketing_Digital-e4cc56?style=for-the-badge&logoColor=363636)](https://andregarciadesign.com.br/category/estrategia/)
+[![Branding](https://img.shields.io/badge/Branding-363636?style=for-the-badge&logoColor=e4cc56)](https://andregarciadesign.com.br/category/branding/)
 
 ---
 
