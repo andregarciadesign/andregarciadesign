@@ -9,7 +9,7 @@ Designer com 20 anos de experiência, focado em transformar ideias em projetos v
 ### 🚀 Sobre mim
 - 📍 Atuando em São Paulo e região.
 - 🎨 Especialista em Design Visual, Branding e Marketing Estratégico.
-- 🇯🇵 Entusiasta da cultura JDM e cultura pop japonesa.
+- 🇯🇵 Entusiasta da cultura japonesa.
 
 ### 🛠️ Minha Expertise
 [![Design](https://img.shields.io/badge/Design-363636?style=for-the-badge&logoColor=e4cc56)](https://andregarciadesign.com.br/category/design/)
